@@ -392,5 +392,5 @@ void showHelp(char *name)
             "-v  Show verbose output.\n"
 			"-p <port number>  Specify the FTDI USB Port Number (default to 0)\n"
             "-l <LoadAddress>  Specify beginning load address (defaults to 0x0000).\n"
-            "Addresses can be specified in decimal or hex (prefixed with 0x). A\n\n\n");
+            "Addresses can be specified in decimal or hex (prefixed with 0x).\n\n\n");
 }
